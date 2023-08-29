@@ -2,4 +2,4 @@
 
 ### To set up the data warehouse in postgres, clone this repository.
 #### In your terminal, run this command below:
-```$ psql -U postgres < students.sql ```
+```$ psql -U postgres < uber_data.sql ```
