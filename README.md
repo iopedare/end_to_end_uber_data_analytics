@@ -1,4 +1,4 @@
-# end_to_end_uber_data_analytics
+# Uber Data Modeling - ERD
 
 ![Data Modeling - ERD Diagram](https://github.com/iopedare/end_to_end_uber_data_analytics/blob/main/uber_data_erd.JPG)
 
